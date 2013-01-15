@@ -44,5 +44,9 @@ brew install rhino
 brew install tree
 brew install webkit2png
 
+#Install vim
+brew install eim
+brew install macvim
+
 # Remove outdated versions from the cellar
 brew cleanup
